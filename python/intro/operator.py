@@ -74,4 +74,4 @@ print("---------\n")
 #Comparision operator <, >, <=, >=, ==, !=
 
 
-#Logical operator and(&), or , not
+#Logical operator and, or , not
