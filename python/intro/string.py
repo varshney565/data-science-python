@@ -64,3 +64,8 @@ print("Shivam".center(20,"?"))
 print("Shivam".ljust(20,'?'))
 print("Shivam".rjust(20,'?'))
 
+#joining strings
+print("\njoining strings=============")
+s = "==>"
+k = s.join(['a','b','c'])
+print(k)
