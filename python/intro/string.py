@@ -63,3 +63,4 @@ print("\nallignment==================")
 print("Shivam".center(20,"?"))
 print("Shivam".ljust(20,'?'))
 print("Shivam".rjust(20,'?'))
+

@@ -3,4 +3,4 @@ i = 0
 while sum + i < 30:
     sum += i
     i += 1
-print(i)
+print(i-1)
