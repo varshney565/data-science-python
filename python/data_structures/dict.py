@@ -46,7 +46,11 @@ print('varshney' in dct.values())
 
 #updating the dictionaries
 print("\nUpdating dictionaries---------------------------------")
-dct1 = {1 : "a", 2 : "b"}
+dct1 = {7 : "a", 1 : "b"}
 dct2 = {3 : "c", 4 : "d"}
 dct1.update(dct2)
 print(dct1)
+
+
+d = dict(sorted(dct1.items()))
+print(d)
